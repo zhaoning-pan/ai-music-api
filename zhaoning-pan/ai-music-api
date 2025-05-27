@@ -1,0 +1,5 @@
+ai-music-api/
+├── api/
+│   └── generate-music.js
+├── package.json
+└── README.md
